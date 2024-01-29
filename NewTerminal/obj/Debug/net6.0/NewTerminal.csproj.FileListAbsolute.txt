@@ -1,0 +1,15 @@
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\bin\Debug\net6.0\NewTerminal.exe
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\bin\Debug\net6.0\NewTerminal.deps.json
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\bin\Debug\net6.0\NewTerminal.runtimeconfig.json
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\bin\Debug\net6.0\NewTerminal.dll
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\bin\Debug\net6.0\NewTerminal.pdb
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.csproj.AssemblyReference.cache
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.AssemblyInfoInputs.cache
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.AssemblyInfo.cs
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.dll
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\refint\NewTerminal.dll
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.pdb
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\NewTerminal.genruntimeconfig.cache
+C:\Users\Stockala\Desktop\NewTerminal\NewTerminal\obj\Debug\net6.0\ref\NewTerminal.dll
